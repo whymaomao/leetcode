@@ -4,8 +4,8 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        No14_longestCommonPrefix solution = new No14_longestCommonPrefix();
-        String[] strs = {"dc","c","c"};
-        System.out.println(solution.longestCommonPrefix(strs));
+        No26_removeDuplicates solution = new No26_removeDuplicates();
+        int[] nums = {1,1,2,2,3,4,5};
+        System.out.println(solution.removeDuplicates(nums));
     }
 }
