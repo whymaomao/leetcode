@@ -6,13 +6,11 @@ public class Main{
 
     public static void main(String[] args) {
 
-        No49_groupAnagrams solution = new No49_groupAnagrams();
-        String[] test ={"huh","tit"};
-        List<List<String>> result = solution.groupAnagrams(test);
-        for(int i = 0; i < result.size(); i ++)
-        {
-            System.out.println(result.get(i));
-        }
+        No977_sortedSquares solution = new No977_sortedSquares();
+        int[] input = {-4, -1, 0,3 ,10};
+        int[] result = solution.sortedSquares(input);
+        for(int i = 0; i < input.length; i ++)
+            System.out.println(result[i]);
     }
 
 
