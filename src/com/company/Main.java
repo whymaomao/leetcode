@@ -6,11 +6,9 @@ public class Main{
 
     public static void main(String[] args) {
 
-        No977_sortedSquares solution = new No977_sortedSquares();
-        int[] input = {-4, -1, 0,3 ,10};
-        int[] result = solution.sortedSquares(input);
-        for(int i = 0; i < input.length; i ++)
-            System.out.println(result[i]);
+        No929_numUniqueEmails solution = new No929_numUniqueEmails();
+        String[] test = {"test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"};
+        System.out.println(solution.numUniqueEmails(test));
     }
 
 
