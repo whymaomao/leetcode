@@ -4,11 +4,20 @@ import java.util.stream.Collectors;
 
 public class Main{
 
-    public static void main(String[] args) {
 
-        No929_numUniqueEmails solution = new No929_numUniqueEmails();
-        String[] test = {"test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"};
-        System.out.println(solution.numUniqueEmails(test));
+
+    private static void testReflect()
+    {
+        Main main = new Main();
+        System.out.println(main.getClass().getName());
+    }
+
+    public static void main(String[] args) {
+        System.out.println(TestEnumType.Friday.toString());
+        System.out.println(TestEnumType.Friday.name());
+
+        System.out.println("Friday".equals(TestEnumType.Friday.toString()));
+
     }
 
 
