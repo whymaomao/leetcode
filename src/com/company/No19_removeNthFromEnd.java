@@ -38,4 +38,26 @@ public class No19_removeNthFromEnd {
         }
         else return head;
     }
+
+    public ListNode swapPairs(ListNode head) {
+        ListNode p1 = head;
+        ListNode tempHead = new ListNode(-1);
+        tempHead.next = p1;
+        ListNode result = tempHead;
+        //change two adjacent nodes
+        while(p1 != null && p1.next != null) {
+
+            ListNode p2 = p1.next;
+            tempHead.next = p2;
+            ListNode temp = p2.next;
+            p1.next = temp;
+            p2.next = p1;
+
+            tempHead = p1;
+            p1 = p1.next;
+        }
+
+        return result.next;
+    }
+
 }
