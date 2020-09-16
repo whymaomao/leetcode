@@ -1,0 +1,16 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(º·èòûÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(’†»üÿÿÿÿ
+`	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(’†»üÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'sun.management.snmp.AdaptorBootstrap'.(º·èòûÿÿÿÿ
+P
+java:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(ù°§Ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’½õìûÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(’½õìûÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(’½õìûÿÿÿÿ
+E
+java:S2093@"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

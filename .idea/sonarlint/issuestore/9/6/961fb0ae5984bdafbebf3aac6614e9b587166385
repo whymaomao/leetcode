@@ -1,0 +1,16 @@
+
+@
+java:S11488"#Use a logger to log this exception.(Ç’Çê8Ö²äÚ¯.
+V
+java:S1117""4Rename "i" which hides the field declared at line 8.(ùó›Ìøÿÿÿÿ8Å²İÚ¯.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÍĞ·åıÿÿÿÿ8Å²İÚ¯.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ÍĞ·åıÿÿÿÿ8¨êáÚ¯.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¸Ş´›8Ö²äÚ¯.
+I
+java:S1481"'Remove this unused "rt" local variable.(ƒÙıÿÿÿÿ8ñˆÒÚ¯.
+H
+java:S1905!"+Remove this unnecessary cast to "Callable".(ºÉ¦İ8Å²İÚ¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÍĞ·åıÿÿÿÿ8è¬¦Ú¯.
+X
+java:S1854"6Remove this useless assignment to local variable "rt".(ƒÙıÿÿÿÿ8ñˆÒÚ¯.
+]	java:S125"<This block of commented-out lines of code should be removed.(äÄ†øÿÿÿÿ8ğŞĞÚ¯.

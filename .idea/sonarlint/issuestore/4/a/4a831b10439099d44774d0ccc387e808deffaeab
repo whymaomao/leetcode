@@ -1,0 +1,63 @@
+
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ø¿‹Ó8ºÅƒÚ¯.
+^	java:S125Þ"<This block of commented-out lines of code should be removed.(²‡‡†ûÿÿÿÿ8ºÅƒÚ¯.
+f
+java:S3358f"DExtract this nested ternary operation into an independent statement.(Þ·ÿ ÿÿÿÿÿ8ºÅƒÚ¯.
+w
+java:S1192h"UUse already-defined constant 'DEVICE_PROPERTY' instead of duplicating its value here.(¢ê´ûÿÿÿÿ8ºÅƒÚ¯.
+b	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(”©òå8ºÅƒÚ¯.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(£‰Ð­ÿÿÿÿÿ8ºÅƒÚ¯.
+p
+java:S1192j"NUse already-defined constant 'AW_USERS' instead of duplicating its value here.(œòåµþÿÿÿÿ8ºÅƒÚ¯.
+n
+java:S1192i"QUse already-defined constant 'CERTIFICATE' instead of duplicating its value here.(ùùªË8ºÅƒÚ¯.
+^	java:S125¸"<This block of commented-out lines of code should be removed.(°«Ÿñþÿÿÿÿ8ºÅƒÚ¯.
+x
+java:S1192e"[Use already-defined constant 'AW_GROUP_LICENSE_USER' instead of duplicating its value here.(îÉŒƒ8ºÅƒÚ¯.
+C
+java:S1168?"&Return an empty array instead of null.(¥¹ï8ºÅƒÚ¯.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(—–Õúÿÿÿÿ8ºÅƒÚ¯.
+a
+java:S3358c"DExtract this nested ternary operation into an independent statement.(„Ð…ö8ºÅƒÚ¯.
+f
+java:S3358j"DExtract this nested ternary operation into an independent statement.(œòåµþÿÿÿÿ8ºÅƒÚ¯.
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+H
+java:S1075""&Remove this hard-coded path-delimiter.(¬ï·þÿÿÿÿ8ºÅƒÚ¯.
+p
+java:S3776X"SRefactor this method to reduce its Cognitive Complexity from 104 to the 15 allowed.(”©òå8ºÅƒÚ¯.
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(Ýîê¥8ºÅƒÚ¯.
+W	java:S125w"<This block of commented-out lines of code should be removed.(Ãéþ78ºÅƒÚ¯.
+f
+java:S3358g"DExtract this nested ternary operation into an independent statement.(¾úÌËüÿÿÿÿ8ºÅƒÚ¯.
+i
+java:S2095]"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ú•ô¯8ºÅƒÚ¯.
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8ºÅƒÚ¯.
+s
+java:S1192c"VUse already-defined constant 'AW_CONFIGURATION' instead of duplicating its value here.(„Ð…ö8ºÅƒÚ¯.
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ºÅƒÚ¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éÆÉ£8ºÅƒÚ¯.
+a
+java:S3358e"DExtract this nested ternary operation into an independent statement.(îÉŒƒ8ºÅƒÚ¯.
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÞŠŠåúÿÿÿÿ8ºÅƒÚ¯.
+„
+java:S1192f"bUse already-defined constant 'AW_STORE_LAYOUT_PAGE_CLUSTER' instead of duplicating its value here.(Þ·ÿ ÿÿÿÿÿ8ºÅƒÚ¯.
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8ºÅƒÚ¯.
+E
+java:S1604B"(Make this anonymous inner class a lambda(žØ­¡8ºÅƒÚ¯.
+f
+java:S3358h"DExtract this nested ternary operation into an independent statement.(¢ê´ûÿÿÿÿ8ºÅƒÚ¯.
+h
+java:S2095O"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ûÔ³8ºÅƒÚ¯.
+]	java:S125t"<This block of commented-out lines of code should be removed.(ÀÓíÛýÿÿÿÿ8ºÅƒÚ¯.
+a
+java:S3358i"DExtract this nested ternary operation into an independent statement.(ùùªË8ºÅƒÚ¯.
+V	java:S106í"9Replace this use of System.out or System.err by a logger.(öØÈ¢8ºÅƒÚ¯.
+f
+java:S3358d"DExtract this nested ternary operation into an independent statement.(ÖÈê’üÿÿÿÿ8ºÅƒÚ¯.
+V	java:S106î"9Replace this use of System.out or System.err by a logger.(ö¬8ºÅƒÚ¯.
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(íÓÒ¸þÿÿÿÿ8ºÅƒÚ¯.
